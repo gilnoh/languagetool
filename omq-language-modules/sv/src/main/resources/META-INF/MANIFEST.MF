@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: guava-16.0.1.jar hunspell-native-libs-2.9.jar slf4j-api-1.
+ 7.6.jar jna-4.1.0.jar commons-lang-2.6.jar jsonic-1.2.11.jar morfolog
+ ik-speller-1.10.0.jar language-detector-0.5.jar segment-1.4.2.jar lan
+ guagetool-core-3.0.jar morfologik-fsa-1.10.0.jar lucene-core-4.10.3.j
+ ar commons-logging-1.1.1.jar annotations-12.0.jar morfologik-stemming
+ -1.10.0.jar hppc-0.6.1.jar
+
