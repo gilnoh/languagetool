@@ -2,7 +2,8 @@
 # Dictionary properties.
 #
 
-fsa.dict.separator=+
-fsa.dict.encoding=iso-8859-2
+# separator assignment + causes exception in 3.9 POSDictionaryBuilder
+fsa.dict.separator=!
+fsa.dict.encoding=utf8
 
-fsa.dict.encoder=NONE
+fsa.dict.encoder=PREFIX
